@@ -1,5 +1,5 @@
-# lanai-dark-syntax theme
+# Lanai dark syntax theme
 
-A short description of your theme.
+A syntax highlighting theme for the [http://www.atom.io](atom editor) with bright and classy colors.
 
-![A screenshot of your theme](https://f.cloud.github.com/assets/69169/2289498/4c3cb0ec-a009-11e3-8dbd-077ee11741e5.gif)
+![Screenshot with Ruby code](https://raw.github.com/cseelus/vim-colors-lanai/master/vim-colors-lanai_preview.png)
