@@ -108,18 +108,6 @@
   &.character.escape {
     color: @turquoise;
   }
-
-  &.numeric {
-    color: @purple;
-  }
-
-  &.other.color {
-    color: @turquoise;
-  }
-
-  &.other.symbol {
-    color: @purple;
-  }
 }
 
 .variable {
@@ -164,7 +152,8 @@
 
     &.variable,
     &.parameters,
-    &.array {
+    &.array,
+    &.entity {
       color: @purple;
     }
 
@@ -172,6 +161,10 @@
     &.heading,
     &.identity {
       color: @turquoise;
+    }
+
+    &.tag {
+      color: @wine;
     }
 
     &.bold {
@@ -220,7 +213,6 @@
 
   &.name.tag {
     color: @wine;
-    text-decoration: underline;
   }
 
   &.other.attribute-name {
