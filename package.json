@@ -1,7 +1,7 @@
 {
   "name": "lanai-dark-syntax",
   "theme": "syntax",
-  "version": "0.10.0",
+  "version": "0.11.0-0",
   "private": false,
   "description": "A syntax theme for atom with bright and classy colors.",
   "repository": "https://github.com/cseelus/lanai-atom-dark-syntax",
